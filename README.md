@@ -2,6 +2,7 @@
 Building basic paint and photo scaling in assembly(MASM)
 
 Goals:
+
   Erik and Ruvim:
     File IO, File color scaling.
 
